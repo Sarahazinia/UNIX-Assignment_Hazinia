@@ -14,7 +14,7 @@
 
 ```du -h fang_et_al_genotypes.txt```
 
-By inspecting rhis file I learned that:
+By inspecting this file I learned that:
   
 * 986 columns
 * 2783 lines 
